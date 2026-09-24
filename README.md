@@ -1,6 +1,6 @@
 # Google Analytics & Tag Manager CLI Skill
 
-A TypeScript CLI tool and GitHub Copilot Agent Skill for managing **Google Tag Manager (GTM)** and **Google Analytics 4 (GA4)**.
+A TypeScript CLI tool and Agent Skill for managing **Google Tag Manager (GTM)** and **Google Analytics 4 (GA4)**.
 
 ## Features
 
